@@ -1,0 +1,30 @@
+
+// function BubbleSort(arr)
+// function SubStrings(str)
+// function QuickSort(arr)
+// function MergeSort(arr)
+//
+//
+// function fibonacci(arr)
+//
+// Function.prototype.myBind
+// Function.prototype.inherits
+// Shuffled Sentence Dectector
+// Sum N Primes
+//
+// My Reduce
+// My Slice
+//
+// My Find
+// Substrings
+// Dups
+// Factorial
+// Factorial (recursive)
+//
+// Binary Search
+// Symmetric Substrings
+// Fibonacci
+// Exponentiation
+// Make Change
+// Subsets
+// Curry
