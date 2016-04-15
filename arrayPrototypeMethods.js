@@ -43,7 +43,7 @@ Array.prototype.myAny = function(conditionalFunction){
       }
   }
   return false;
-}
+};
 
 Array.prototype.myReverse = function(){
   var reverseArr = [];

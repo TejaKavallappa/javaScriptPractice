@@ -23,7 +23,6 @@ function twoSum(arr){
   });//forEach
 
   return resultArr;
-
 }
 
 function myTranspose(arr){

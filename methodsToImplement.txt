@@ -1,26 +1,5 @@
-
-// function BubbleSort(arr)
 // function SubStrings(str)
-// function QuickSort(arr)
-// function MergeSort(arr)
-//
-//
 // function fibonacci(arr)
-//
-// Function.prototype.myBind
-// Function.prototype.inherits
-// Shuffled Sentence Dectector
-// Sum N Primes
-//
-// My Reduce
-// My Slice
-//
-// My Find
-// Substrings
-// Dups
-// Factorial
-// Factorial (recursive)
-//
 // Binary Search
 // Symmetric Substrings
 // Fibonacci
@@ -28,3 +7,14 @@
 // Make Change
 // Subsets
 // Curry
+// Shuffled Sentence Detector
+// Sum N Primes
+// My Slice
+// My Find
+// Dups
+// Factorial
+// Factorial (recursive)
+Write a sum function. This should take any number of arguments:
+
+sum(1, 2, 3, 4) == 10
+sum(1, 2, 3, 4, 5) == 15
